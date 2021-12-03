@@ -12,7 +12,7 @@ class App: Application() {
         // TODO: Add your Smartlook API key here:
         val smartlookBuilder = Smartlook.SetupOptionsBuilder("").apply {
             //TODO: Uncomment this to force new session on every application run
-            startNewSession()
+            //startNewSession()
         }
 
 
