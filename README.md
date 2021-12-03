@@ -8,7 +8,7 @@ CrashTest/app/src/main/java/com/smartlook/crashtest/App.kt
 
 Then you need to place your application key into `Smartlook.SetupOptionsBuilder`:
 
-```
+```kotlin
 class App: Application() {
 
     override fun onCreate() {
