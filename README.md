@@ -28,3 +28,12 @@ class App: Application() {
 ```
 
 Note that api key can be prefixed by `alfa_`/`beta_` if you want to record to non-production enviroment.
+
+# Force a crash event
+
+You can simulate one of three crashes (`NULL_POINTER`/`ILLEGAL_ARGUMENT`/`INVALID_OBJECT`) by clicking on one of the buttons.
+This will not crash the application but it will "track" crash event into a Smartlook SDK.
+
+# Obfuscation
+
+Application is obfuscated on both `release` and `debug`build variants. **For now the obfuscation is not working properly, but the mapping files are being produced**
