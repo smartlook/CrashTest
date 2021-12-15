@@ -38,5 +38,5 @@ android {
 dependencies {
     implementation 'androidx.appcompat:appcompat:1.2.0'
     implementation 'com.google.android.material:material:1.2.0'
-    implementation 'com.smartlook.recording:app:1.8.7-native-force-crash'
+    implementation 'com.smartlook.recording:app:1.8.7-native-force-crash-2'
 }
