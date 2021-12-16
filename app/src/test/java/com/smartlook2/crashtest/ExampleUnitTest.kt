@@ -1,4 +1,4 @@
-package com.smartlook.crashtest
+package com.smartlook2.crashtest
 
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package com.smartlook.crashtest
+package com.smartlook2.crashtest
 
 import android.app.Application
 import com.smartlook.sdk.smartlook.Smartlook

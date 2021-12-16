@@ -7,7 +7,7 @@ android {
     compileSdk 31
 
     defaultConfig {
-        applicationId "com.smartlook.crashtest"
+        applicationId "com.smartlook2.crashtest"
         minSdk 23
         targetSdk 31
         versionCode 1

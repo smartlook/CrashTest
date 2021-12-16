@@ -1,4 +1,4 @@
-package com.smartlook.crashtest
+package com.smartlook2.crashtest
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

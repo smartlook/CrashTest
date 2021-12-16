@@ -1,10 +1,10 @@
-package com.smartlook.crashtest
+package com.smartlook2.crashtest
 
 import android.os.Bundle
 import android.widget.Button
 import androidx.appcompat.app.AppCompatActivity
-import com.smartlook.crashtest.utility.crash.simulate.CrashType
-import com.smartlook.crashtest.utility.crash.simulate.SimulateCrashUtil
+import com.smartlook2.crashtest.utility.crash.simulate.CrashType
+import com.smartlook2.crashtest.utility.crash.simulate.SimulateCrashUtil
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

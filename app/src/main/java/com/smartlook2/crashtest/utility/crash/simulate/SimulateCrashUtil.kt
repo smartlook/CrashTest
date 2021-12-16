@@ -1,4 +1,4 @@
-package com.smartlook.crashtest.utility.crash.simulate
+package com.smartlook2.crashtest.utility.crash.simulate
 
 import android.content.Context
 import android.util.Log
